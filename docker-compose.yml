@@ -1,0 +1,8 @@
+version: '2'
+services:
+  registry:
+    build: .
+    ports:
+      - 80:9000
+    volumes:
+      - /data:/data

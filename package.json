@@ -9,7 +9,8 @@
     "url": "git@github.com:yahoo/reginabox.git"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node ./index.js mirror /data"
   },
   "keywords": [
     "npm",
