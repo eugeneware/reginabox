@@ -27,7 +27,6 @@
     "davlog": "0.0.2",
     "express": "^4.12.3",
     "lru-cache": "^2.5.0",
-    "mdns": "^2.2.8",
     "registry-static": "^0.1.11",
     "st": "^0.5.3"
   },
