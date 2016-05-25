@@ -28,7 +28,7 @@
     "davlog": "0.0.2",
     "express": "^4.12.3",
     "lru-cache": "^2.5.0",
-    "registry-static": "git://github.com/eugeneware/registry-static.git#master",
+    "registry-static": "git://github.com/eugeneware/registry-static.git#v0.1.11",
     "st": "^0.5.3"
   },
   "devDependencies": {
